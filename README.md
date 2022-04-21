@@ -1,7 +1,7 @@
 # C tutorial for beginners full course
 
 * Hello world, comments & escape sequences 💬
-* variables 💰 *
+* variables 💰
 * data types 📊
 * format specifiers 🔧
 * constants 🚫
